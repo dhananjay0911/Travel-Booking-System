@@ -1,0 +1,16 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+body {
+    background-color: #7974F3; /* Indigo 500 color */
+    color: white; /* Adjust text color for better visibility */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
